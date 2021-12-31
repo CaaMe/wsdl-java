@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetUserDetailRequest
+	xmlns="http://com.wsdl"
+	xsi:schemaLocation="http://com.wsdl wsdl-information.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+	<id>123</id>
+</GetUserDetailRequest>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetUserDetailResponse
+	xmlns="http://com.wsdl"
+	xsi:schemaLocation="http://com.wsdl wsdl-information.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<UserDetail>
+		<id>123</id>
+		<nombre>Uriel</nombre>
+		<apellido>2233445566</apellido>
+		<username>uriel</username>
+		<password>123456</password>
+	</UserDetail>
+</GetUserDetailResponse>
